@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Hemanth Sai Garladinne
 I'm currently pursuing B.Tech. in Computer Science Engineering with specialization in Artificial Intelligence and Machine Learning.
 
-Skills: Python | c++
+Skills: Python | c++ | HTML | CSS
 
 - 🔭 I’m currently working on improving my python skills 
 - 🌱 I’m currently learning Python and c++ 
