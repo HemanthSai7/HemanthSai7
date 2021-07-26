@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 ### Hi there 👋, my name is Hemanth Sai Garladinne
 I'm currently pursuing B.Tech. in Computer Science Engineering with specialization in Artificial Intelligence and Machine Learning.
 
