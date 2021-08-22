@@ -4,7 +4,7 @@ A Machine Learning and Computer Vision Enthusiast.I'm a First Year Student curre
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /><br>
 
-Skills: Python | c++ | HTML | CSS | Java
+Skills: Python | HTML | CSS | Java
 
 - 🔭 I’m currently working on improving my python skills 
 - 🌱 I’m currently learning Python and c++ 
