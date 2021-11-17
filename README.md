@@ -50,10 +50,11 @@ Skills: Python | HTML | CSS | Java
 
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Machine Learner from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/hemanthsai3187/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="30" height="30"/> 
 </p>
 
 
