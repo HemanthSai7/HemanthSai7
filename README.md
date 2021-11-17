@@ -56,6 +56,8 @@ Skills: Python | HTML | CSS | Java
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hemanthsai3187/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="30" height="30"/> 
+<a href="https://twitter.com/HemanthSai3187" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="twitter" width="30" height="30"/></a>
+<a href="https://www.instagram.com/hemanth_sai_7/" target="_blank" rel="noreferrer"><img src="https://image.flaticon.com/icons/png/512/1057/1057248.png" alt="instagram" width="30" height="30"/></a>
 </p>
 
 
