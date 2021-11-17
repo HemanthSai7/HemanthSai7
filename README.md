@@ -22,7 +22,7 @@ Skills: Python | HTML | CSS | Java
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://matplotlib.org/stable/index.html#" target="_blank" rel="noreferrer">
-  <img src="https://matplotlib.org/_static/logo2.svg" alt="matplotlib" width="50" height="50"/> </a> 
+<img src="https://matplotlib.org/_static/logo2.svg" alt="matplotlib" width="50" height="50"/> </a> 
 
 #### Full Stack Development Stack:
 
@@ -30,7 +30,7 @@ Skills: Python | HTML | CSS | Java
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-<!-- <a href="https://learning.postman.com/docs/getting-started/introduction/" target="_blank" rel="noreferrer"><img src="https://assets.getpostman.com/common-share/postman-github-logo.png" alt="Postman logo"></a> -->
+<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 
 
 #### Languages And Tools
