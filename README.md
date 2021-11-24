@@ -2,12 +2,20 @@
 ### Hi there 👋, my name is Hemanth Sai Garladinne
 A Machine Learning and Computer Vision Enthusiast.I'm a First Year Student currently pursuing B.Tech in Vellore Institute of Technology,Bhopal.A <b>thought</h4></b> which I most like "More important than the number of falls you take in life, is how fast and how strong you get back on your feet"
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /><br>
+<img width="48%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /><br>
 
-- 🔭 I’m currently working on improving my python skills 
-- 🌱 I’m currently learning Python and c++ 
-- 😀 I'll try to contribute more to open source this year
-- ⚡ Fun fact: Pro Football Fan😂
+
+
+
+- 🌱 I’m currently learning **Tensorflow and MongoDB**
+
+- 👯 I’m looking to collaborate in **Hackathons and new Projects**
+
+- 💬 Ask me about **Python and Java**
+
+- 😀 I'll try to contribute more to **Open Source** this year
+
+- ⚡ Fun fact **I'm an Avid Reader and a Pro Football Fan**
 
 
 ### MY TECH STACK:
