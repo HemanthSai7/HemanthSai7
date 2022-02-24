@@ -7,7 +7,7 @@ A Machine Learning and Computer Vision Enthusiast.I'm a First Year Student curre
 
 
 
-- 🌱 I’m currently learning **Tensorflow and MongoDB**
+- 🌱 I’m currently learning **PyTorch**
 
 - 👯 I’m looking to collaborate in **Hackathons and new Projects**
 
