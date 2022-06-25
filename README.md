@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 ### Hi there 👋, my name is Hemanth Sai Garladinne
-A Machine Learning and Computer Vision Enthusiast.I'm a First Year Student currently pursuing B.Tech in Vellore Institute of Technology,Bhopal.A <b>thought</h4></b> which I most like "More important than the number of falls you take in life, is how fast and how strong you get back on your feet"
+I am a machine learning and data science enthusiast while also have an interest in writing tech blogs.Skilled in Python. I'm currently pursuing a degree in B.Tech. in Computer Science with a specialization in Artificial Intelligence & Machine Learning from the Vellore Institute of Technology, Bhopal. My primary domain is computer vision while also being fluent in backend web development. I'm currently exploring the domain of blockchain and also developing my skills in deep learning..A <b>thought</h4></b> which I most like "More important than the number of falls you take in life, is how fast and how strong you get back on your feet"
 
 <img width="48%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /><br>
 
