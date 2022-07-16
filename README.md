@@ -43,7 +43,7 @@ I am a machine learning and data science enthusiast while also have an interest 
 <a href="https://www.instagram.com/hemanth_sai_7/" target="_blank" rel="noreferrer"><img src="assets/Instagram-Logo.wine.svg" alt="instagram" width="35" height="35"/></a>
 </p>
 
-![Wave](bottom_header.svg)
+![Wave](assets/bottom_header.svg)
 
 
 
