@@ -22,6 +22,8 @@
 
 <div align="center">
 <div><h3>Lets connect 😃</h3></div>
+
+ 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://dribbble.com/josre)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hemanth.sai3187@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hmthsai7/) 
