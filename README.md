@@ -17,7 +17,7 @@
 </p>
 <div align="center">
 <img width="380px" src="https://github-readme-stats.vercel.app/api?username=HemanthSai7&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=982A81&icon_color=982A81&bg_color=0D111700&text_color=969696&custom_title=Hemanth's+Github+Stats" alt="Hemanth's Github stats" />
-<img width="380px" src="http://github-readme-streak-stats.herokuapp.com?user=HemanthSai7&hide_border=true&background=0D111700&border=982A81&fire=B63F5B&sideNums=982A81&currStreakLabel=B63F5B&currStreakNum=B63F5B&sideLabels=B63F5B&dates=969696&stroke=982A81&ring=B33527" />
+<img width="380px" src="http://github-readme-streak-stats.herokuapp.com?user=HemanthSai7&hide_border=true&background=0D111700&border=982A81&fire=B63F5B&sideNums=982A81&currStreakLabel=B63F5B&currStreakNum=B63F5B&sideLabels=B63F5B&dates=969696&stroke=982A81&ring=EE4C2C" />
 </div>  
 
 <div align="center">
