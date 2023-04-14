@@ -16,8 +16,8 @@
 <!--   <img src="https://github-readme-activity-graph.hemanthsai7.repl.co/graph username=HemanthSai7&theme=radical&bg_color=onedark&point=00000000&line=E3BE7A&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=#2E2C34&area=true&area_color=#2E2C34"> -->
 </p>
 <div align="center">
-<img width="380px" src="https://github-readme-stats.vercel.app/api?username=HemanthSai7&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=FC6401&bg_color=0D111700&text_color=969696&custom_title=Hemanth's+Github+Stats" alt="Hemanth's Github stats" />
-<img width="380px" src="http://github-readme-streak-stats.herokuapp.com?user=HemanthSai7&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=FC6401&currStreakLabel=ff96e6e&currStreakNum=969696&sideLabels=FC6401&dates=969696&stroke=7F1DA2" />
+<img width="380px" src="https://github-readme-stats.vercel.app/api?username=HemanthSai7&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=982A81&icon_color=982A81&bg_color=0D111700&text_color=969696&custom_title=Hemanth's+Github+Stats" alt="Hemanth's Github stats" />
+<img width="380px" src="http://github-readme-streak-stats.herokuapp.com?user=HemanthSai7&hide_border=true&background=0D111700&border=982A81&fire=B63F5B&sideNums=982A81&currStreakLabel=B63F5B&currStreakNum=B63F5B&sideLabels=B63F5B&dates=969696&stroke=982A81&ring=B33527" />
 </div>  
 
 <div align="center">
