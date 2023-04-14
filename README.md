@@ -3,7 +3,7 @@
 <img width="1080px" src="https://github-widgetbox.vercel.app/api/profile?username=HemanthSai7&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
 
 > ## I'm Hemanth Sai Garladinne.👋
-> I am a machine learning emgineer and a backend developer with a passion for creating innovative and user-friendly applications. I have experience in Computer Vision, Natural Language Processing and backend development with Flask and FastAPI. I enjoy learning new technologies and frameworks while also collaborating with other developers on open source projects. You can check out some of my work on this GitHub profile. Feel free to contact if you have any questions or suggestions. Thanks for stopping by!
+> I am a machine learning emgineer and a backend developer with a passion for creating innovative and user-friendly applications. I have experience in Natural Language Processing, Computer Vision and backend development with Flask and FastAPI. I enjoy learning new technologies and frameworks while also collaborating with other developers on open source projects. You can check out some of my work on this GitHub profile. Feel free to contact if you have any questions or suggestions. Thanks for stopping by!
 
 <img width="45%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -45,6 +45,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=your-github-HemanthSai7&style=flat-square&color=232323">
 <hr>
 
-<h3 align="center">A passionate Machine Learner from India</h3>
+<h3 align="center">My Machine and I are Learning</h3>
 
 ![Wave](assets/bottom_header.svg)
