@@ -35,7 +35,7 @@
 
 |     Machine Learning   | Languages |Cloud + Backend Frameworks| Tools + Databases|
 |       ---     |    ---    |    ---     |    ---    |
-|       <img src="https://skillicons.dev/icons?i=pytorch" />     |    <img src="https://skillicons.dev/icons?i=py,java,mysql,bash" />    |    <img src="https://skillicons.dev/icons?i=azure,vercel,flask,fastapi,postman" />     |    <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,docker" />    |
+|       <img src="https://skillicons.dev/icons?i=pytorch" />     |    <img src="https://skillicons.dev/icons?i=py,java,mysql,bash" />    |    <img src="https://skillicons.dev/icons?i=azure,vercel,flask,fastapi,postman,selenium" />     |    <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,docker,linux" />    |
 
 <!--|                 |           |
 | --------------- | --------- |
