@@ -3,14 +3,16 @@
 <img width="1080px" src="https://github-widgetbox.vercel.app/api/profile?username=HemanthSai7&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
 
 > ## I'm Hemanth Sai Garladinne👋
-> I am a machine learning engineer and a backend developer with a passion for creating innovative and user-friendly applications. I have experience in Natural Language Processing, Computer Vision and backend development with Flask and FastAPI. I enjoy learning new technologies and frameworks while also collaborating with other developers on open source projects. You can check out some of my work on this GitHub profile. Feel free to contact if you have any questions or suggestions. Thanks for stopping by!
+> An enthusiastic individual who loves exploring new technologies and who has the ability to come up with better solutions. A machine learning engineer and a backend developer with a passion for creating innovative and user-friendly applications. I have experience in Natural Language Processing, Computer Vision and backend development with Flask and FastAPI. I enjoy learning new technologies and frameworks while also collaborating with other developers on open source projects. You can check out some of my work on this GitHub profile. Feel free to contact if you have any questions or suggestions. Thanks for stopping by!
 
 <img width="45%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+- 🌱 I'm currently looking for **Full Time Employment Opportunities**
 - 👋 I am Currently learning MLOps and PyTorch
 - 🌐 I am Exploring Open source projects while building on Machine Learning and Python.
 - 💭 I am always up for hackathons, Lets git it done !
-- 💬 Ask me about Machine Learning :)
+- 💬 Ask me about Machine Learning, PyTorch and Azure :)
+- 📫 Reach me at : hemanth.sai3187@gmail.com
 - ⚡ Fun fact : I love networking and meeting new people !
 
 <!--   <img src="https://github-readme-activity-graph.hemanthsai7.repl.co/graph username=HemanthSai7&theme=radical&bg_color=onedark&point=00000000&line=E3BE7A&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=#2E2C34&area=true&area_color=#2E2C34"> -->
