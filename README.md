@@ -14,6 +14,9 @@
 - 💬 Ask me about Machine Learning, PyTorch and Azure :)
 - 📫 Reach me at : hemanth.sai3187@gmail.com
 - ⚡ Fun fact : I love networking and meeting new people !
+- 🤩 **Certified TensorFlow Developer**
+
+<img src="https://github.com/mayureshagashe2105/mayureshagashe2105/blob/main/assets/Certified%20TensorFlow%20Developer%20Badge.png" align="center" height="250px" width="250px"/>
 
 <!--   <img src="https://github-readme-activity-graph.hemanthsai7.repl.co/graph username=HemanthSai7&theme=radical&bg_color=onedark&point=00000000&line=E3BE7A&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=#2E2C34&area=true&area_color=#2E2C34"> -->
 </p>
